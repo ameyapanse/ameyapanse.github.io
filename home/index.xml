@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ameya Panse</title>
-    <link>https://ameyapanse.github.io/blob/master/home/</link>
+    <link>https://ameyapanse.github.io/home/</link>
     <description>Recent content in Homes on Ameya Panse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://ameyapanse.github.io/blob/master/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ameyapanse.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ameyapanse.github.io/blob/master/home/hero_carousel/</link>
+      <link>https://ameyapanse.github.io/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
       
-      <guid>https://ameyapanse.github.io/blob/master/home/hero_carousel/</guid>
+      <guid>https://ameyapanse.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>https://ameyapanse.github.io/blob/master/home/about/</link>
+      <link>https://ameyapanse.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://ameyapanse.github.io/blob/master/home/about/</guid>
+      <guid>https://ameyapanse.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://ameyapanse.github.io/blob/master/home/publications_featured/</link>
+      <link>https://ameyapanse.github.io/home/publications_featured/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://ameyapanse.github.io/blob/master/home/publications_featured/</guid>
+      <guid>https://ameyapanse.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ameyapanse.github.io/blob/master/home/contact/</link>
+      <link>https://ameyapanse.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://ameyapanse.github.io/blob/master/home/contact/</guid>
+      <guid>https://ameyapanse.github.io/home/contact/</guid>
       <description></description>
     </item>
     
